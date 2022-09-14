@@ -1,5 +1,26 @@
 ## Android Skeleton Piece Java
-- Template repository for doing research on Android Technologies
+- Sub Skeleton Module From Project Android
+- Include Main Java Class
+
+## How To Use This Project
+- Using as template
+- Add submodule
+- Can be private or public
+
+## How To Adding Sub Module
+
+### Code
+```zsh
+git submodule add <link-repo-github> <folder-name>
+```
+
+### Sample
+```zsh
+git submodule add https://github.com/frogobox/piano-tiles-sub-java com
+```
+
+## Tutorial Source
+- https://www.youtube.com/watch?v=gSlXo2iLBro&t=271s
 
 ## Colaborator
 Very open to anyone, I'll write your name under this, please contribute by sending an email to me
